@@ -53,5 +53,3 @@ function updateLS(){
     });
     localStorage.setItem('todos', JSON.stringify(todos));
 }
-// localStorage.setItem('name', JSON.stringify(obj))
-// JSON.parse(localStorage.getItem(obj))
